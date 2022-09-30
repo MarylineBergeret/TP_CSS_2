@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: larger;
+}
+h3{
+    color: blue;
+    font-size: medium;
+
+}
+.paraf1, .paraf2{
+    background-color : grey;
+}
+strong{
+    color: yellowgreen;
+    font-weight: normal;
+
+}
+em{
+    color: orange;
+    font-size: large;
+    font-style: normal;
+    text-decoration: underline;
+
+}
+#theme{
+    background-color: pink;
+}
+.titre2{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
